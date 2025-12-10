@@ -1,1 +1,29 @@
-# E-Commerce-Ai
+# 📦 E-Commerce Return & Satisfaction Predictor
+
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
+## 📌 Project Overview
+This project is an end-to-end Machine Learning web application designed to predict **Customer Satisfaction (Happy/Unhappy)** and **Churn Risk** for e-commerce orders. 
+
+It leverages a **Gradient Boosting Classifier** to analyze logistics performance (delivery delays) and financial metrics. The model is deployed via a custom-styled **Streamlit** interface.
+
+## 📸 Screenshots
+### 1. The Cyberpunk Dashboard
+*(Upload a screenshot of your app here)*
+
+### 2. Model Performance (ROC-AUC)
+![ROC Curve](roc_curve_comparison.png)
+
+## 🏗️ Tech Stack
+- **Frontend:** Streamlit (Custom CSS styling)
+- **Backend:** Python, Scikit-Learn, Pandas
+- **Model:** Gradient Boosting vs. Random Forest vs. Logistic Regression
+- **Data Source:** Olist Brazilian E-Commerce Dataset
+
+## 🚀 How to Run Locally
+
+1. **Clone the repository**
+   ```bash
+   git clone [https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git)
