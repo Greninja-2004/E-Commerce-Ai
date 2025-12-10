@@ -21,9 +21,3 @@ It leverages a **Gradient Boosting Classifier** to analyze logistics performance
 - **Backend:** Python, Scikit-Learn, Pandas
 - **Model:** Gradient Boosting vs. Random Forest vs. Logistic Regression
 - **Data Source:** Olist Brazilian E-Commerce Dataset
-
-## 🚀 How to Run Locally
-
-1. **Clone the repository**
-   ```bash
-   git clone [https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git)
