@@ -10,10 +10,7 @@ This project is an end-to-end Machine Learning web application designed to predi
 It leverages a **Gradient Boosting Classifier** to analyze logistics performance (delivery delays) and financial metrics. The model is deployed via a custom-styled **Streamlit** interface.
 
 ## 📸 Screenshots
-### 1. The Cyberpunk Dashboard
-*(Upload a screenshot of your app here)*
-
-### 2. Model Performance (ROC-AUC)
+### 1. Model Performance (ROC-AUC)
 ![ROC Curve](roc_curve_comparison.png)
 
 ## 🏗️ Tech Stack
