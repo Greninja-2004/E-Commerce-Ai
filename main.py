@@ -109,7 +109,7 @@ for name, model in final_models.items():
     print("ROC-AUC:", round(roc, 4))
     print("RMSE:", round(rmse, 4))
     print("R² Score:", round(r2, 4))
-    print("\nClassification Report:\n")
+    print("\nClassification Report Details:\n")
     print(classification_report(y_test, pred))
     print("\nConfusion Matrix:\n")
     print(confusion_matrix(y_test, pred))
